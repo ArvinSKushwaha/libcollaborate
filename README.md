@@ -1,2 +1,2 @@
 # libcollaborate
-A rust live-collaboration framework
+A Rust live-collaboration framework
